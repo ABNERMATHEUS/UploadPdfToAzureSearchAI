@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadAzureSearch", "UploadAzureSearch.csproj", "{7EA0B4EE-15CD-4313-8B64-BE4C0099DF62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EA0B4EE-15CD-4313-8B64-BE4C0099DF62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA0B4EE-15CD-4313-8B64-BE4C0099DF62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA0B4EE-15CD-4313-8B64-BE4C0099DF62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA0B4EE-15CD-4313-8B64-BE4C0099DF62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C6911A4-CB2E-4358-A2AC-A6708468A3F4}
+	EndGlobalSection
+EndGlobal
